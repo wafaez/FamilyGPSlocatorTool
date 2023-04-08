@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">239928707663-l67a5tdbe7e5ckk8n1u2if1fuei0veil.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">239928707663</string>
+    <string name="google_api_key" translatable="false">AIzaSyAU78rj1ilMRh-myrCx_58J2_yB3mmtARM</string>
+    <string name="google_app_id" translatable="false">1:239928707663:android:1341833d1d10d6b51e783a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAU78rj1ilMRh-myrCx_58J2_yB3mmtARM</string>
+    <string name="google_storage_bucket" translatable="false">familygpstracker-be31b.appspot.com</string>
+    <string name="project_id" translatable="false">familygpstracker-be31b</string>
+</resources>
