@@ -1,0 +1,358 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mytracker.familygpstracker"
+4    android:versionCode="2"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+11-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:5:5-79
+11-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+12-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:6:5-80
+12-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:7:5-67
+13-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:7:22-64
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:8:5-79
+14-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:8:22-76
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:9:5-80
+15-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:9:22-77
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:10:5-81
+16-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:10:22-78
+17    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+17-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:11:5-77
+17-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:11:22-74
+18
+19    <uses-feature
+19-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c45005979737ba0dce243ca83b4bbdf5\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:26:5-28:35
+20        android:glEsVersion="0x00020000"
+20-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c45005979737ba0dce243ca83b4bbdf5\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:27:9-41
+21        android:required="true" />
+21-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c45005979737ba0dce243ca83b4bbdf5\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:28:9-32
+22
+23    <queries>
+23-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c45005979737ba0dce243ca83b4bbdf5\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:30:5-34:15
+24
+25        <!-- Needs to be explicitly declared on Android R+ -->
+26        <package android:name="com.google.android.apps.maps" />
+26-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c45005979737ba0dce243ca83b4bbdf5\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:33:9-64
+26-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c45005979737ba0dce243ca83b4bbdf5\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:33:18-61
+27    </queries>
+28
+29    <application
+29-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:13:5-95:19
+30        android:name="androidx.multidex.MultiDexApplication"
+31        android:allowBackup="true"
+31-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:15:9-35
+32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+32-->[androidx.core:core:1.7.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\343bc481ea24ba5ca7a7552dd93043c6\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+33        android:debuggable="true"
+34        android:icon="@mipmap/ic_launcher"
+34-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:16:9-43
+35        android:label="@string/app_name"
+35-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:17:9-41
+36        android:roundIcon="@mipmap/ic_launcher_round"
+36-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:18:9-54
+37        android:supportsRtl="true"
+37-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:19:9-35
+38        android:testOnly="true"
+39        android:theme="@style/AppTheme" >
+39-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:20:9-40
+40        <activity
+40-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:21:9-23:81
+41            android:name="com.mytracker.familygpstracker.Activities.MainActivity"
+41-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:21:19-88
+42            android:exported="true"
+42-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:22:13-36
+43            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+43-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:23:13-69
+44        <activity
+44-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:24:9-27:72
+45            android:name="com.mytracker.familygpstracker.Activities.SendAlertActivity"
+45-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:25:13-87
+46            android:exported="true"
+46-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:26:13-36
+47            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+47-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:27:13-69
+48        <activity
+48-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:28:9-31:72
+49            android:name="com.mytracker.familygpstracker.Activities.AlertCenterActivity"
+49-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:29:13-89
+50            android:exported="true"
+50-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:30:13-36
+51            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+51-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:31:13-69
+52        <activity
+52-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:32:9-35:72
+53            android:name="com.mytracker.familygpstracker.Activities.LiveMapActivity"
+53-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:33:13-85
+54            android:exported="true"
+54-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:34:13-36
+55            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+55-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:35:13-69
+56        <activity
+56-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:36:9-39:72
+57            android:name="com.mytracker.familygpstracker.Activities.InviteCodeActivity"
+57-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:37:13-88
+58            android:exported="true"
+58-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:38:13-36
+59            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+59-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:39:13-69
+60        <activity
+60-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:40:9-43:72
+61            android:name="com.mytracker.familygpstracker.Activities.HomeScreenActivity"
+61-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:41:13-88
+62            android:exported="true"
+62-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:42:13-36
+63            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+63-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:43:13-69
+64        <activity
+64-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:44:9-47:72
+65            android:name="com.mytracker.familygpstracker.Activities.RegisterActivity"
+65-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:45:13-86
+66            android:exported="true"
+66-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:46:13-36
+67            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+67-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:47:13-69
+68        <activity
+68-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:48:9-57:20
+69            android:name="com.mytracker.familygpstracker.Activities.SplashActivity"
+69-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:49:13-84
+70            android:exported="true"
+70-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:50:13-36
+71            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+71-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:51:13-69
+72            <intent-filter>
+72-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:52:13-56:29
+73                <action android:name="android.intent.action.MAIN" />
+73-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:53:17-69
+73-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:53:25-66
+74
+75                <category android:name="android.intent.category.LAUNCHER" />
+75-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:55:17-77
+75-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:55:27-74
+76            </intent-filter>
+77        </activity>
+78
+79        <uses-library
+79-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:61:9-63:40
+80            android:name="org.apache.http.legacy"
+80-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:62:13-50
+81            android:required="false" />
+81-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:63:13-37
+82
+83        <meta-data
+83-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:66:9-68:69
+84            android:name="com.google.android.gms.version"
+84-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:67:13-58
+85            android:value="@integer/google_play_services_version" />
+85-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:68:13-66
+86        <meta-data
+86-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:69:9-71:71
+87            android:name="com.google.android.geo.API_KEY"
+87-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:70:13-58
+88            android:value="AIzaSyCkGbf9RAqXCGBFGXfonLg3FAxRtVfttw4" />
+88-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:71:13-68
+89        <meta-data
+89-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:72:9-74:57
+90            android:name="preloaded_fonts"
+90-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:73:13-43
+91            android:resource="@array/preloaded_fonts" />
+91-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:74:13-54
+92
+93        <activity
+93-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:76:9-78:59
+94            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+94-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:77:13-76
+95            android:theme="@style/Base.Theme.AppCompat" />
+95-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:78:13-56
+96
+97        <service
+97-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:80:9-83:40
+98            android:name="com.mytracker.familygpstracker.Services.LocationShareService"
+98-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:81:13-88
+99            android:enabled="true"
+99-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:82:13-35
+100            android:exported="false" />
+100-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:83:13-37
+101
+102        <receiver
+102-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:85:9-93:20
+103            android:name="com.mytracker.familygpstracker.Services.MyBroadCastReceiver"
+103-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:86:13-87
+104            android:enabled="true"
+104-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:87:13-35
+105            android:exported="true"
+105-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:88:13-36
+106            android:label="RestartServiceWhenStopped" >
+106-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:89:13-54
+107            <intent-filter>
+107-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:90:13-92:29
+108                <action android:name="com.gps.gpstracker.familygpstracker" />
+108-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:91:17-78
+108-->C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:91:25-75
+109            </intent-filter>
+110        </receiver>
+111
+112        <activity
+112-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:27:9-44:20
+113            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+113-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:28:13-80
+114            android:excludeFromRecents="true"
+114-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:29:13-46
+115            android:exported="true"
+115-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:30:13-36
+116            android:launchMode="singleTask"
+116-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:31:13-44
+117            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+117-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:32:13-72
+118            <intent-filter>
+118-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:33:13-43:29
+119                <action android:name="android.intent.action.VIEW" />
+119-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:34:17-69
+119-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:34:25-66
+120
+121                <category android:name="android.intent.category.DEFAULT" />
+121-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:36:17-76
+121-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:36:27-73
+122                <category android:name="android.intent.category.BROWSABLE" />
+122-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:37:17-78
+122-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:37:27-75
+123
+124                <data
+124-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:39:17-42:51
+125                    android:host="firebase.auth"
+125-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:40:21-49
+126                    android:path="/"
+126-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:41:21-37
+127                    android:scheme="genericidp" />
+127-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:42:21-48
+128            </intent-filter>
+129        </activity>
+130        <activity
+130-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:45:9-62:20
+131            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+131-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:46:13-79
+132            android:excludeFromRecents="true"
+132-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:47:13-46
+133            android:exported="true"
+133-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:48:13-36
+134            android:launchMode="singleTask"
+134-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:49:13-44
+135            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+135-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:50:13-72
+136            <intent-filter>
+136-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:51:13-61:29
+137                <action android:name="android.intent.action.VIEW" />
+137-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:34:17-69
+137-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:34:25-66
+138
+139                <category android:name="android.intent.category.DEFAULT" />
+139-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:36:17-76
+139-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:36:27-73
+140                <category android:name="android.intent.category.BROWSABLE" />
+140-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:37:17-78
+140-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:37:27-75
+141
+142                <data
+142-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:39:17-42:51
+143                    android:host="firebase.auth"
+143-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:40:21-49
+144                    android:path="/"
+144-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:41:21-37
+145                    android:scheme="recaptcha" />
+145-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:42:21-48
+146            </intent-filter>
+147        </activity>
+148
+149        <service
+149-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:64:9-70:19
+150            android:name="com.google.firebase.components.ComponentDiscoveryService"
+150-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:65:13-84
+151            android:directBootAware="true"
+151-->[com.google.firebase:firebase-common:20.1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\04ebcd0714b933804fece7f75df197cb\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:35:13-43
+152            android:exported="false" >
+152-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:66:13-37
+153            <meta-data
+153-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:67:13-69:85
+154                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+154-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:68:17-109
+155                android:value="com.google.firebase.components.ComponentRegistrar" />
+155-->[com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:69:17-82
+156            <meta-data
+156-->[com.google.firebase:firebase-database:20.0.5] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\35f8256b275e65d53c239a97aee430db\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:32:13-34:85
+157                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+157-->[com.google.firebase:firebase-database:20.0.5] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\35f8256b275e65d53c239a97aee430db\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:33:17-109
+158                android:value="com.google.firebase.components.ComponentRegistrar" />
+158-->[com.google.firebase:firebase-database:20.0.5] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\35f8256b275e65d53c239a97aee430db\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:34:17-82
+159            <meta-data
+159-->[com.google.firebase:firebase-storage:20.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\6a1b97f198aaa4405e7a96d57a1c43df\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:33:13-35:85
+160                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+160-->[com.google.firebase:firebase-storage:20.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\6a1b97f198aaa4405e7a96d57a1c43df\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:34:17-107
+161                android:value="com.google.firebase.components.ComponentRegistrar" />
+161-->[com.google.firebase:firebase-storage:20.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\6a1b97f198aaa4405e7a96d57a1c43df\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:35:17-82
+162        </service>
+163
+164        <provider
+164-->[com.squareup.picasso:picasso:2.71828] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\2eeb8e5372635e867276394dcf853b7d\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+165            android:name="com.squareup.picasso.PicassoProvider"
+165-->[com.squareup.picasso:picasso:2.71828] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\2eeb8e5372635e867276394dcf853b7d\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+166            android:authorities="com.mytracker.familygpstracker.com.squareup.picasso"
+166-->[com.squareup.picasso:picasso:2.71828] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\2eeb8e5372635e867276394dcf853b7d\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+167            android:exported="false" />
+167-->[com.squareup.picasso:picasso:2.71828] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\2eeb8e5372635e867276394dcf853b7d\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+168        <provider
+168-->[com.google.firebase:firebase-common:20.1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\04ebcd0714b933804fece7f75df197cb\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:26:9-31:39
+169            android:name="com.google.firebase.provider.FirebaseInitProvider"
+169-->[com.google.firebase:firebase-common:20.1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\04ebcd0714b933804fece7f75df197cb\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:27:13-77
+170            android:authorities="com.mytracker.familygpstracker.firebaseinitprovider"
+170-->[com.google.firebase:firebase-common:20.1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\04ebcd0714b933804fece7f75df197cb\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:28:13-72
+171            android:directBootAware="true"
+171-->[com.google.firebase:firebase-common:20.1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\04ebcd0714b933804fece7f75df197cb\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:29:13-43
+172            android:exported="false"
+172-->[com.google.firebase:firebase-common:20.1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\04ebcd0714b933804fece7f75df197cb\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:30:13-37
+173            android:initOrder="100" />
+173-->[com.google.firebase:firebase-common:20.1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\04ebcd0714b933804fece7f75df197cb\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:31:13-36
+174
+175        <activity
+175-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\5b354644ffa0e201ef89e839cdfc09c7\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+176            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+176-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\5b354644ffa0e201ef89e839cdfc09c7\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+177            android:exported="false"
+177-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\5b354644ffa0e201ef89e839cdfc09c7\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+178            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+178-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\5b354644ffa0e201ef89e839cdfc09c7\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+179
+180        <provider
+180-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\72725007337c824784c441bb0adf2578\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+181            android:name="androidx.startup.InitializationProvider"
+181-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\72725007337c824784c441bb0adf2578\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+182            android:authorities="com.mytracker.familygpstracker.androidx-startup"
+182-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\72725007337c824784c441bb0adf2578\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+183            android:exported="false" >
+183-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\72725007337c824784c441bb0adf2578\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+184            <meta-data
+184-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\72725007337c824784c441bb0adf2578\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+185                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+185-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\72725007337c824784c441bb0adf2578\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+186                android:value="androidx.startup" />
+186-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\72725007337c824784c441bb0adf2578\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+187            <meta-data
+187-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\3b0047257c197662496baaf87d82e618\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+188                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+188-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\3b0047257c197662496baaf87d82e618\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+189                android:value="androidx.startup" />
+189-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\3b0047257c197662496baaf87d82e618\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+190        </provider>
+191    </application>
+192
+193</manifest>
