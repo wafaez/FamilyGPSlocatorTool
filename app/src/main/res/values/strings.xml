@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Family GPS Locator Tool</string>
+
+
+    <string name="maps_api"></string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="privacy_policy_url">fsdf</string>
+
+    <array name="tab_colors">
+        <item name="tab_1">@color/colorPrimary</item>
+        <item name="tab_2">@color/colorPrimary</item>
+        <item name="tab_3">@color/colorPrimary</item>
+        <item name="tab_4">@color/colorPrimary</item>
+        <item name="tab_5">@color/colorPrimary</item>
+    </array>
+</resources>
