@@ -1,0 +1,644 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:2:1-97:12
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\1be8fa12b81aa23138cd47af0a52d3b4\transformed\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\3ad63e08466d1f8459a7569c1a4a1e27\transformed\jetified-ahbottomnavigation-2.0.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.6.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\13bdc319bc1802b426f8613721f4651e\transformed\material-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\e175ca1b2ba4fa84cf12799113240a66\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.GoodieBag:Pinview:v1.3] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\a48e8f82921ed630d7d35e82950ea68e\transformed\jetified-Pinview-v1.3\AndroidManifest.xml:2:1-17:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.5.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\a2dad25cae047f77b4e202eac55e127e\transformed\jetified-android-image-cropper-2.5.1\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\5ac9d55412e009453ba1bf7ba6b3ac31\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:17:1-73:12
+MERGED from [com.google.firebase:firebase-database:20.0.5] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\35f8256b275e65d53c239a97aee430db\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\6a1b97f198aaa4405e7a96d57a1c43df\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:15:1-39:12
+MERGED from [com.jakewharton:butterknife:10.2.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\0472ef64669cdcead17a6edf97b41a27\transformed\jetified-butterknife-10.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c9fe5933e711404ab9af2bbbc27079d3\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:19.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\85ca52e521e46660c38a3b3dfdcaf207\transformed\jetified-play-services-location-19.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c45005979737ba0dce243ca83b4bbdf5\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:17:1-44:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\b79fd5b8724ac07e0861a51a6d14b6a2\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\27a4f54f15b43b6ffe8a11d39ef4f0b1\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\b99de5ca28f06996243058d58f7e7464\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.markushi:circlebutton:1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\f2351b4a0c88eb8ea4ff9ff9f4e4197f\transformed\jetified-circlebutton-1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\2eeb8e5372635e867276394dcf853b7d\transformed\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\ba198880b221686a4d9b2ad3452ca627\transformed\jetified-android-maps-utils-0.5\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\485775df9c4b29126fc167667cdf8c12\transformed\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\78adf6471bb8a40ba01b2b3f29e0e5b4\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\6bc3f91ad4834ac2fad6bd9a640fba44\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\03abc7319ea37ca67b2b7fa0c34bd3b0\transformed\jetified-firebase-appcheck-interop-16.0.0\AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\04ebcd0714b933804fece7f75df197cb\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\6b6961cb0d5acfa4fb65e5d5346e2d74\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\5b354644ffa0e201ef89e839cdfc09c7\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\7e28b89b5f0ca4f9d4259ab4f8626526\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\a1b8befc915efd43fc544e7d71e51a9a\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\fe943597a8b9238883655af191998353\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\5dea01e7aa3140f7041dd2ada3f731f3\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\02e05964ebb897882030e3008dc6f575\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\e1d1568c5099af8a6e2bc2d8f09d1a6b\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\0008f4c95c3d8da9521a47e81d2961b9\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\72725007337c824784c441bb0adf2578\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\f6be02c01ef4aaaf353906424243e3b3\transformed\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife-runtime:10.2.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\289347d19dad2bd5b3bbfbf5b38228e3\transformed\jetified-butterknife-runtime-10.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\70ce5a93e4d8a2389a37b3ad17e5c85a\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4ec97f5436b3f45e768f48f5e86dca15\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\b63fb3004b4092bbeeb83d1bc5d99845\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c4a7b39232cba4cdd15e0a23a81e8906\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\a2704c520cc8a9d86522498da8011d91\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\2248036f4b6069bd39871be7d6a06a30\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\beb6550e48e57fbe256a2b4d366a3604\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\8ec501d408adbaf29011b8eaf07f34cd\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\099816478a673b84db10aa9fe304740f\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\f7bd303b77a92378af72c718cd4fcdf1\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\7d4e8d6dc9e02ec415cf11928120e485\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4d55e28688745811d1c1a9575287affd\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\95d9d1a512148f7a40cb1c327c4911da\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\fb9c6feccd0c364d656390f992c99ff8\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\343bc481ea24ba5ca7a7552dd93043c6\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\2978cb09c41b8fe07d505747bbd109bc\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4977b0b59e20effa8205add375dda681\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\f0be42b0b5802ff6e26d72878121c3f0\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\2978ad89d9a435661515580216b958c9\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\8ad22ad0dbf32d94faa9d608edeaf9f0\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\106af69dd022b94b8db406377a2f7ef9\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\26255dbb1e6a8a74759d21cc77e56d08\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\7651fda4d1bcbdc402cab071d0042f74\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\3b0047257c197662496baaf87d82e618\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4dbad484702e19252bb8eb3be7e0fbbd\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\bb479a67bca7bc6c4d7387923e6d7421\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\06058d0e44b219ddcc88b253f46347c0\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\d2b0430e04b4180c641c573ce0af09d3\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\cf9a10b30396946dec62eed132254670\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\fa98d6a37968ae550bc331e835695cd5\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\0ada2ebb3df328f55332992fac776e09\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\6ea5dfea77e4bb541e416d3c6630a888\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\3fb35d3d962e1831bf1cc743ae8d9223\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\7a9ac56fe05ba517e647a4b4e38eec6e\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:2:1-97:12
+	package
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:2:1-97:12
+		INJECTED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:2:1-97:12
+		INJECTED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:20.0.5] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\35f8256b275e65d53c239a97aee430db\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:20.0.5] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\35f8256b275e65d53c239a97aee430db\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\6a1b97f198aaa4405e7a96d57a1c43df\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\6a1b97f198aaa4405e7a96d57a1c43df\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:27:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c45005979737ba0dce243ca83b4bbdf5\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c45005979737ba0dce243ca83b4bbdf5\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-database:20.0.5] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\35f8256b275e65d53c239a97aee430db\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:20.0.5] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\35f8256b275e65d53c239a97aee430db\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\6a1b97f198aaa4405e7a96d57a1c43df\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\6a1b97f198aaa4405e7a96d57a1c43df\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c45005979737ba0dce243ca83b4bbdf5\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c45005979737ba0dce243ca83b4bbdf5\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:11:5-77
+	android:name
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:11:22-74
+application
+ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:13:5-95:19
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\3ad63e08466d1f8459a7569c1a4a1e27\transformed\jetified-ahbottomnavigation-2.0.0\AndroidManifest.xml:11:5-20
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\3ad63e08466d1f8459a7569c1a4a1e27\transformed\jetified-ahbottomnavigation-2.0.0\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.6.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\13bdc319bc1802b426f8613721f4651e\transformed\material-1.6.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\13bdc319bc1802b426f8613721f4651e\transformed\material-1.6.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\e175ca1b2ba4fa84cf12799113240a66\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\e175ca1b2ba4fa84cf12799113240a66\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.github.GoodieBag:Pinview:v1.3] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\a48e8f82921ed630d7d35e82950ea68e\transformed\jetified-Pinview-v1.3\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.GoodieBag:Pinview:v1.3] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\a48e8f82921ed630d7d35e82950ea68e\transformed\jetified-Pinview-v1.3\AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-database:20.0.5] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\35f8256b275e65d53c239a97aee430db\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:20.0.5] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\35f8256b275e65d53c239a97aee430db\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\6a1b97f198aaa4405e7a96d57a1c43df\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\6a1b97f198aaa4405e7a96d57a1c43df\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:29:5-37:19
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c9fe5933e711404ab9af2bbbc27079d3\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c9fe5933e711404ab9af2bbbc27079d3\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:19.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\85ca52e521e46660c38a3b3dfdcaf207\transformed\jetified-play-services-location-19.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:19.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\85ca52e521e46660c38a3b3dfdcaf207\transformed\jetified-play-services-location-19.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c45005979737ba0dce243ca83b4bbdf5\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c45005979737ba0dce243ca83b4bbdf5\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:36:5-42:19
+MERGED from [com.github.markushi:circlebutton:1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\f2351b4a0c88eb8ea4ff9ff9f4e4197f\transformed\jetified-circlebutton-1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.markushi:circlebutton:1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\f2351b4a0c88eb8ea4ff9ff9f4e4197f\transformed\jetified-circlebutton-1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\2eeb8e5372635e867276394dcf853b7d\transformed\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\2eeb8e5372635e867276394dcf853b7d\transformed\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\ba198880b221686a4d9b2ad3452ca627\transformed\jetified-android-maps-utils-0.5\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\ba198880b221686a4d9b2ad3452ca627\transformed\jetified-android-maps-utils-0.5\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\78adf6471bb8a40ba01b2b3f29e0e5b4\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\78adf6471bb8a40ba01b2b3f29e0e5b4\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\6bc3f91ad4834ac2fad6bd9a640fba44\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\6bc3f91ad4834ac2fad6bd9a640fba44\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\03abc7319ea37ca67b2b7fa0c34bd3b0\transformed\jetified-firebase-appcheck-interop-16.0.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\03abc7319ea37ca67b2b7fa0c34bd3b0\transformed\jetified-firebase-appcheck-interop-16.0.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\04ebcd0714b933804fece7f75df197cb\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\04ebcd0714b933804fece7f75df197cb\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\5b354644ffa0e201ef89e839cdfc09c7\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\5b354644ffa0e201ef89e839cdfc09c7\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\7e28b89b5f0ca4f9d4259ab4f8626526\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\7e28b89b5f0ca4f9d4259ab4f8626526\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\a1b8befc915efd43fc544e7d71e51a9a\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\a1b8befc915efd43fc544e7d71e51a9a\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\fe943597a8b9238883655af191998353\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\fe943597a8b9238883655af191998353\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\72725007337c824784c441bb0adf2578\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\72725007337c824784c441bb0adf2578\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\343bc481ea24ba5ca7a7552dd93043c6\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\343bc481ea24ba5ca7a7552dd93043c6\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\7651fda4d1bcbdc402cab071d0042f74\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\7651fda4d1bcbdc402cab071d0042f74\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\3b0047257c197662496baaf87d82e618\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\3b0047257c197662496baaf87d82e618\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4dbad484702e19252bb8eb3be7e0fbbd\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4dbad484702e19252bb8eb3be7e0fbbd\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\343bc481ea24ba5ca7a7552dd93043c6\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:18:9-54
+	android:icon
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:20:9-40
+activity#com.mytracker.familygpstracker.Activities.MainActivity
+ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:21:9-23:81
+	android:exported
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:22:13-36
+	android:theme
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:23:13-69
+	android:name
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:21:19-88
+activity#com.mytracker.familygpstracker.Activities.SendAlertActivity
+ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:24:9-27:72
+	android:exported
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:26:13-36
+	android:theme
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:27:13-69
+	android:name
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:25:13-87
+activity#com.mytracker.familygpstracker.Activities.AlertCenterActivity
+ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:28:9-31:72
+	android:exported
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:31:13-69
+	android:name
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:29:13-89
+activity#com.mytracker.familygpstracker.Activities.LiveMapActivity
+ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:32:9-35:72
+	android:exported
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:34:13-36
+	android:theme
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:35:13-69
+	android:name
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:33:13-85
+activity#com.mytracker.familygpstracker.Activities.InviteCodeActivity
+ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:36:9-39:72
+	android:exported
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:38:13-36
+	android:theme
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:39:13-69
+	android:name
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:37:13-88
+activity#com.mytracker.familygpstracker.Activities.HomeScreenActivity
+ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:40:9-43:72
+	android:exported
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:42:13-36
+	android:theme
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:41:13-88
+activity#com.mytracker.familygpstracker.Activities.RegisterActivity
+ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:44:9-47:72
+	android:exported
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:46:13-36
+	android:theme
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:47:13-69
+	android:name
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:45:13-86
+activity#com.mytracker.familygpstracker.Activities.SplashActivity
+ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:48:9-57:20
+	android:exported
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:49:13-84
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:52:13-56:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:53:17-69
+	android:name
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:53:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:55:17-77
+	android:name
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:55:27-74
+uses-library#org.apache.http.legacy
+ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:61:9-63:40
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c45005979737ba0dce243ca83b4bbdf5\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:39:9-41:40
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c45005979737ba0dce243ca83b4bbdf5\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:62:13-50
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:66:9-68:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\ba198880b221686a4d9b2ad3452ca627\transformed\jetified-android-maps-utils-0.5\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\ba198880b221686a4d9b2ad3452ca627\transformed\jetified-android-maps-utils-0.5\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\fe943597a8b9238883655af191998353\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\fe943597a8b9238883655af191998353\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:68:13-66
+	android:name
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:67:13-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:69:9-71:71
+	android:value
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:71:13-68
+	android:name
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:70:13-58
+meta-data#preloaded_fonts
+ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:72:9-74:57
+	android:resource
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:74:13-54
+	android:name
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:73:13-43
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:76:9-78:59
+	android:theme
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:78:13-56
+	android:name
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:77:13-76
+service#com.mytracker.familygpstracker.Services.LocationShareService
+ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:80:9-83:40
+	android:enabled
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:82:13-35
+	android:exported
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:83:13-37
+	android:name
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:81:13-88
+receiver#com.mytracker.familygpstracker.Services.MyBroadCastReceiver
+ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:85:9-93:20
+	android:enabled
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:87:13-35
+	android:label
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:89:13-54
+	android:exported
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:88:13-36
+	android:name
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:86:13-87
+intent-filter#action:name:com.gps.gpstracker.familygpstracker
+ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:90:13-92:29
+action#com.gps.gpstracker.familygpstracker
+ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:91:17-78
+	android:name
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml:91:25-75
+uses-sdk
+INJECTED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\1be8fa12b81aa23138cd47af0a52d3b4\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\1be8fa12b81aa23138cd47af0a52d3b4\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\3ad63e08466d1f8459a7569c1a4a1e27\transformed\jetified-ahbottomnavigation-2.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\3ad63e08466d1f8459a7569c1a4a1e27\transformed\jetified-ahbottomnavigation-2.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.6.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\13bdc319bc1802b426f8613721f4651e\transformed\material-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\13bdc319bc1802b426f8613721f4651e\transformed\material-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\e175ca1b2ba4fa84cf12799113240a66\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\e175ca1b2ba4fa84cf12799113240a66\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.GoodieBag:Pinview:v1.3] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\a48e8f82921ed630d7d35e82950ea68e\transformed\jetified-Pinview-v1.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.GoodieBag:Pinview:v1.3] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\a48e8f82921ed630d7d35e82950ea68e\transformed\jetified-Pinview-v1.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.5.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\a2dad25cae047f77b4e202eac55e127e\transformed\jetified-android-image-cropper-2.5.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.5.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\a2dad25cae047f77b4e202eac55e127e\transformed\jetified-android-image-cropper-2.5.1\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\5ac9d55412e009453ba1bf7ba6b3ac31\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\5ac9d55412e009453ba1bf7ba6b3ac31\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-database:20.0.5] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\35f8256b275e65d53c239a97aee430db\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:20.0.5] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\35f8256b275e65d53c239a97aee430db\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\6a1b97f198aaa4405e7a96d57a1c43df\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\6a1b97f198aaa4405e7a96d57a1c43df\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton:butterknife:10.2.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\0472ef64669cdcead17a6edf97b41a27\transformed\jetified-butterknife-10.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:10.2.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\0472ef64669cdcead17a6edf97b41a27\transformed\jetified-butterknife-10.2.1\AndroidManifest.xml:5:5-44
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c9fe5933e711404ab9af2bbbc27079d3\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c9fe5933e711404ab9af2bbbc27079d3\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:19.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\85ca52e521e46660c38a3b3dfdcaf207\transformed\jetified-play-services-location-19.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:19.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\85ca52e521e46660c38a3b3dfdcaf207\transformed\jetified-play-services-location-19.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c45005979737ba0dce243ca83b4bbdf5\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c45005979737ba0dce243ca83b4bbdf5\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\b79fd5b8724ac07e0861a51a6d14b6a2\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\b79fd5b8724ac07e0861a51a6d14b6a2\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\27a4f54f15b43b6ffe8a11d39ef4f0b1\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\27a4f54f15b43b6ffe8a11d39ef4f0b1\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\b99de5ca28f06996243058d58f7e7464\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\b99de5ca28f06996243058d58f7e7464\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.markushi:circlebutton:1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\f2351b4a0c88eb8ea4ff9ff9f4e4197f\transformed\jetified-circlebutton-1.1\AndroidManifest.xml:7:5-44
+MERGED from [com.github.markushi:circlebutton:1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\f2351b4a0c88eb8ea4ff9ff9f4e4197f\transformed\jetified-circlebutton-1.1\AndroidManifest.xml:7:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\2eeb8e5372635e867276394dcf853b7d\transformed\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\2eeb8e5372635e867276394dcf853b7d\transformed\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\ba198880b221686a4d9b2ad3452ca627\transformed\jetified-android-maps-utils-0.5\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\ba198880b221686a4d9b2ad3452ca627\transformed\jetified-android-maps-utils-0.5\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\485775df9c4b29126fc167667cdf8c12\transformed\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\485775df9c4b29126fc167667cdf8c12\transformed\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\78adf6471bb8a40ba01b2b3f29e0e5b4\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\78adf6471bb8a40ba01b2b3f29e0e5b4\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\6bc3f91ad4834ac2fad6bd9a640fba44\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\6bc3f91ad4834ac2fad6bd9a640fba44\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\03abc7319ea37ca67b2b7fa0c34bd3b0\transformed\jetified-firebase-appcheck-interop-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\03abc7319ea37ca67b2b7fa0c34bd3b0\transformed\jetified-firebase-appcheck-interop-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\04ebcd0714b933804fece7f75df197cb\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\04ebcd0714b933804fece7f75df197cb\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\6b6961cb0d5acfa4fb65e5d5346e2d74\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\6b6961cb0d5acfa4fb65e5d5346e2d74\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\5b354644ffa0e201ef89e839cdfc09c7\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\5b354644ffa0e201ef89e839cdfc09c7\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\7e28b89b5f0ca4f9d4259ab4f8626526\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\7e28b89b5f0ca4f9d4259ab4f8626526\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\a1b8befc915efd43fc544e7d71e51a9a\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\a1b8befc915efd43fc544e7d71e51a9a\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\fe943597a8b9238883655af191998353\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\fe943597a8b9238883655af191998353\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\5dea01e7aa3140f7041dd2ada3f731f3\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\5dea01e7aa3140f7041dd2ada3f731f3\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\02e05964ebb897882030e3008dc6f575\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\02e05964ebb897882030e3008dc6f575\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\e1d1568c5099af8a6e2bc2d8f09d1a6b\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\e1d1568c5099af8a6e2bc2d8f09d1a6b\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\0008f4c95c3d8da9521a47e81d2961b9\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\0008f4c95c3d8da9521a47e81d2961b9\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\72725007337c824784c441bb0adf2578\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\72725007337c824784c441bb0adf2578\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\f6be02c01ef4aaaf353906424243e3b3\transformed\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\f6be02c01ef4aaaf353906424243e3b3\transformed\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.2.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\289347d19dad2bd5b3bbfbf5b38228e3\transformed\jetified-butterknife-runtime-10.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.2.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\289347d19dad2bd5b3bbfbf5b38228e3\transformed\jetified-butterknife-runtime-10.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\70ce5a93e4d8a2389a37b3ad17e5c85a\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\70ce5a93e4d8a2389a37b3ad17e5c85a\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4ec97f5436b3f45e768f48f5e86dca15\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4ec97f5436b3f45e768f48f5e86dca15\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\b63fb3004b4092bbeeb83d1bc5d99845\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\b63fb3004b4092bbeeb83d1bc5d99845\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c4a7b39232cba4cdd15e0a23a81e8906\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c4a7b39232cba4cdd15e0a23a81e8906\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\a2704c520cc8a9d86522498da8011d91\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\a2704c520cc8a9d86522498da8011d91\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\2248036f4b6069bd39871be7d6a06a30\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\2248036f4b6069bd39871be7d6a06a30\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\beb6550e48e57fbe256a2b4d366a3604\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\beb6550e48e57fbe256a2b4d366a3604\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\8ec501d408adbaf29011b8eaf07f34cd\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\8ec501d408adbaf29011b8eaf07f34cd\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\099816478a673b84db10aa9fe304740f\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\099816478a673b84db10aa9fe304740f\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\f7bd303b77a92378af72c718cd4fcdf1\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\f7bd303b77a92378af72c718cd4fcdf1\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\7d4e8d6dc9e02ec415cf11928120e485\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\7d4e8d6dc9e02ec415cf11928120e485\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4d55e28688745811d1c1a9575287affd\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4d55e28688745811d1c1a9575287affd\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\95d9d1a512148f7a40cb1c327c4911da\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\95d9d1a512148f7a40cb1c327c4911da\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\fb9c6feccd0c364d656390f992c99ff8\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\fb9c6feccd0c364d656390f992c99ff8\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\343bc481ea24ba5ca7a7552dd93043c6\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\343bc481ea24ba5ca7a7552dd93043c6\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\2978cb09c41b8fe07d505747bbd109bc\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\2978cb09c41b8fe07d505747bbd109bc\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4977b0b59e20effa8205add375dda681\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4977b0b59e20effa8205add375dda681\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\f0be42b0b5802ff6e26d72878121c3f0\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\f0be42b0b5802ff6e26d72878121c3f0\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\2978ad89d9a435661515580216b958c9\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\2978ad89d9a435661515580216b958c9\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\8ad22ad0dbf32d94faa9d608edeaf9f0\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\8ad22ad0dbf32d94faa9d608edeaf9f0\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\106af69dd022b94b8db406377a2f7ef9\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\106af69dd022b94b8db406377a2f7ef9\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\26255dbb1e6a8a74759d21cc77e56d08\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\26255dbb1e6a8a74759d21cc77e56d08\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\7651fda4d1bcbdc402cab071d0042f74\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\7651fda4d1bcbdc402cab071d0042f74\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\3b0047257c197662496baaf87d82e618\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\3b0047257c197662496baaf87d82e618\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4dbad484702e19252bb8eb3be7e0fbbd\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4dbad484702e19252bb8eb3be7e0fbbd\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\bb479a67bca7bc6c4d7387923e6d7421\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\bb479a67bca7bc6c4d7387923e6d7421\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\06058d0e44b219ddcc88b253f46347c0\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\06058d0e44b219ddcc88b253f46347c0\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\d2b0430e04b4180c641c573ce0af09d3\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\d2b0430e04b4180c641c573ce0af09d3\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\cf9a10b30396946dec62eed132254670\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\cf9a10b30396946dec62eed132254670\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\fa98d6a37968ae550bc331e835695cd5\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\fa98d6a37968ae550bc331e835695cd5\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\0ada2ebb3df328f55332992fac776e09\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\0ada2ebb3df328f55332992fac776e09\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\6ea5dfea77e4bb541e416d3c6630a888\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\6ea5dfea77e4bb541e416d3c6630a888\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\3fb35d3d962e1831bf1cc743ae8d9223\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\3fb35d3d962e1831bf1cc743ae8d9223\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\7a9ac56fe05ba517e647a4b4e38eec6e\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\7a9ac56fe05ba517e647a4b4e38eec6e\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LATITUDE\Downloads\FamilyGPSLocatorTool\app\src\main\AndroidManifest.xml
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:51:13-61:29
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-database:20.0.5] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\35f8256b275e65d53c239a97aee430db\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:20.0.5] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\35f8256b275e65d53c239a97aee430db\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\6a1b97f198aaa4405e7a96d57a1c43df\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\6a1b97f198aaa4405e7a96d57a1c43df\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\04ebcd0714b933804fece7f75df197cb\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\04ebcd0714b933804fece7f75df197cb\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:66:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\04ebcd0714b933804fece7f75df197cb\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\04ebcd0714b933804fece7f75df197cb\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:65:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:67:13-69:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:69:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4673b453e6f52e20c76648382f69e519\transformed\jetified-firebase-auth-21.0.4\AndroidManifest.xml:68:17-109
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.0.5] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\35f8256b275e65d53c239a97aee430db\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.0.5] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\35f8256b275e65d53c239a97aee430db\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.5] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\35f8256b275e65d53c239a97aee430db\transformed\jetified-firebase-database-20.0.5\AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\6a1b97f198aaa4405e7a96d57a1c43df\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\6a1b97f198aaa4405e7a96d57a1c43df\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\6a1b97f198aaa4405e7a96d57a1c43df\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:34:17-107
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c45005979737ba0dce243ca83b4bbdf5\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c45005979737ba0dce243ca83b4bbdf5\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c45005979737ba0dce243ca83b4bbdf5\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c45005979737ba0dce243ca83b4bbdf5\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c45005979737ba0dce243ca83b4bbdf5\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\c45005979737ba0dce243ca83b4bbdf5\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:33:18-61
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\2eeb8e5372635e867276394dcf853b7d\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\2eeb8e5372635e867276394dcf853b7d\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\2eeb8e5372635e867276394dcf853b7d\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\2eeb8e5372635e867276394dcf853b7d\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\04ebcd0714b933804fece7f75df197cb\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\04ebcd0714b933804fece7f75df197cb\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\04ebcd0714b933804fece7f75df197cb\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\04ebcd0714b933804fece7f75df197cb\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\04ebcd0714b933804fece7f75df197cb\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\04ebcd0714b933804fece7f75df197cb\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\5b354644ffa0e201ef89e839cdfc09c7\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\5b354644ffa0e201ef89e839cdfc09c7\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\5b354644ffa0e201ef89e839cdfc09c7\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\5b354644ffa0e201ef89e839cdfc09c7\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\72725007337c824784c441bb0adf2578\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\3b0047257c197662496baaf87d82e618\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\3b0047257c197662496baaf87d82e618\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4dbad484702e19252bb8eb3be7e0fbbd\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\4dbad484702e19252bb8eb3be7e0fbbd\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\72725007337c824784c441bb0adf2578\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\72725007337c824784c441bb0adf2578\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\72725007337c824784c441bb0adf2578\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\72725007337c824784c441bb0adf2578\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\72725007337c824784c441bb0adf2578\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\72725007337c824784c441bb0adf2578\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\72725007337c824784c441bb0adf2578\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\3b0047257c197662496baaf87d82e618\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\3b0047257c197662496baaf87d82e618\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\LATITUDE\AndroidStudioProjects\I'mHere\caches\transforms-3\3b0047257c197662496baaf87d82e618\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
