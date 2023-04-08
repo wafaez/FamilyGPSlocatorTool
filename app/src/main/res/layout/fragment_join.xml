@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_centerInParent="true"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="Enter Invite code to join"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            />
+
+
+
+
+        <com.goodiebag.pinview.Pinview
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/mypinview"
+            app:pinWidth="35dp"
+            android:minHeight="40dp"
+            app:pinLength="6"
+            app:cursorVisible="true"
+            app:forceKeyboard="false"
+            app:inputType="number"
+            android:layout_marginTop="20dp">
+        </com.goodiebag.pinview.Pinview>
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="18dp"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:text="Ask your friends for their circle code"
+            android:layout_gravity="center"
+            android:textColor="#fff"
+             />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_gradient_red"
+            android:textSize="16sp"
+            android:textColor="#FFFFFF"
+            android:id="@+id/joinBtn"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:layout_marginTop="30dp"
+            android:text="Join"
+             />
+    </LinearLayout>
+
+
+
+
+</RelativeLayout>
