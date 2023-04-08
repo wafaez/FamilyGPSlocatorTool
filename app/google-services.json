@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "619436287424",
+    "firebase_url": "https://one-on-one-2f6b8-default-rtdb.firebaseio.com",
+    "project_id": "one-on-one-2f6b8",
+    "storage_bucket": "one-on-one-2f6b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619436287424:android:057f445d48885970521425",
+        "android_client_info": {
+          "package_name": "com.mytracker.familygpstracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619436287424-rqnied84f9dfdn9oorp670d1t66e396l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq_zFC47Kjr8k57QcN503sGNcXfcsIc-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619436287424-rqnied84f9dfdn9oorp670d1t66e396l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
